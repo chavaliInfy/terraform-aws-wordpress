@@ -1,6 +1,7 @@
 variable aws_reg {
   description = "This is aws region"
-  default     = "eu-west-2"
+ # default     = "eu-west-2"
+  default     = "us-east-1"
   type        = string
 }
 
